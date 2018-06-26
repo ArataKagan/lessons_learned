@@ -2,50 +2,50 @@
 
 1. HTML
   - HTML tags
-    - Inside of <head>  
-      - <script> and <link>
-    - Inside of <body>
-      - <header>
-      - <footer>
-      - <main>
-      - <section>
-      - <aside>
-      - <div>
+    - Inside of `<head>`  
+      - `<script>` and `<link>`
+    - Inside of `<body>`
+      - `<header>`
+      - `<footer>`
+      - `<main>`
+      - `<section>`
+      - `<aside>`
+      - `<div>`
     - anchor `<a href = 'https://www.xxx'>`
       - `target = '_blank'`
 
   - Ordered List `<ol>..</ol>`
   - Unordered List `<ul>..</ul>`
-  - <nav> tag
+  - `<nav>` tag
 
   - Tables
-    - <table>
-    - <thead>
-    - <tr>
-    - <tbody>
-    - <th>
-    - <td>
+    - `<table>`
+    - `<thead>`
+    - `<tr>`
+    - `<tbody>`
+    - `<th>`
+    - `<td>`
 
   - HTML Forms
-    - <form> tag
+    - `<form>` tag
       - action and method attributes
-      - <input>
-      - <label>
-      - <fieldset>
-      - <select>
-      - <textarea>
+      - `<input>`
+      - `<label>`
+      - `<fieldset>`
+      - `<select>`
+      - `<textarea>`
 
   - Media
-    - <img>
+    - `<img>`
       - src attribute
       - alt attribute
       - self-closing
 
-    - <video>
+    - `<video>`
       - not self-closing
-        - <source>
+        - `<source>`
 
-    - <audio>
+    - `<audio>`
 
   - Accessibility
     - Semantic HTML
@@ -53,7 +53,7 @@
 2. CSS
 
   - Inline styling vs. Internal styling vs. External styling  
-  - <link> tag
+  - `<link>` tag
     -  rel and type attribute
 
   - Primary CSS Selectors
@@ -86,4 +86,4 @@
 
 3. Command Line
 
-  - 
+  -
