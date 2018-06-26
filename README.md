@@ -86,4 +86,30 @@
 
 3. Command Line
 
-  -
+  - ls
+  - pwd
+  - cd
+  - cd ..
+  - mkdir
+  - touch
+  - ls -a
+  - ls -l
+  - ls -alt
+  - cp
+     1. copy file 
+     2. navigate to different directory
+     3. cp *
+  - wildcard
+    - cp m*.txt
+  - mv
+  - rm
+  - input and out (I/O) redirection
+  - stdin, stdout, stderr
+  - cat
+  - >
+  - >>
+  - <
+  - | (pipe)
+  - sort
+  - uniq
+  - grep
