@@ -96,7 +96,7 @@
   - ls -l
   - ls -alt
   - cp
-     1. copy file 
+     1. copy file
      2. navigate to different directory
      3. cp *
   - wildcard
@@ -106,10 +106,10 @@
   - input and out (I/O) redirection
   - stdin, stdout, stderr
   - cat
-  - >
-  - >>
-  - <
-  - | (pipe)
+  - `>`
+  - `>>`
+  - `<`
+  - `|` (pipe)
   - sort
   - uniq
   - grep
