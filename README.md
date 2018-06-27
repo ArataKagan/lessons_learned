@@ -1,4 +1,5 @@
 ## Things I Have Learned at Bloc.io
+Jun 27th 2018
 
 1. HTML
   - HTML tags
